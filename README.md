@@ -10,7 +10,6 @@
 - 👨‍💻 I love working on web development, mobile apps, and machine learning projects.
 - 📚 I’m passionate about learning new technologies and improving my skills.
 - 🎮 In my free time, I enjoy gaming and exploring new game mechanics.
-- 🎯 My goal is to become a full-stack developer and contribute to open-source projects.
 
 ### Skills
 

@@ -70,7 +70,6 @@
 ### Connect with Me
 
 - 📧 Email: [businessyaz9011@outlook.com](businessyaz9011@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/El Yazid](https://www.linkedin.com/in/el-yazid-el-merzouki-8711ba277/)
 
 
 ### GitHub Stats

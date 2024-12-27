@@ -60,8 +60,6 @@
 - 📧 Email: [businessyaz9011@outlook.com](businessyaz9011@outlook.com)
 
 
-### GitHub Stats
 
-![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dizay1957&show_icons=true&theme=radical)
 
 

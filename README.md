@@ -1,19 +1,25 @@
-# Hi there, I'm Yazid 👋
+<div align="center">
 
-🎓 **Software Engineering Student**
+# *Greetings, Tarnished* ⚔️
+
+![image](https://github.com/user-attachments/assets/5a731e53-722f-4076-91d9-3d539a796cb7)
+
+### *I Am Malenia, Blade of Miquella*
+
+
+🌱 *As one bound to the Scarlet Rot, I seek not only mastery of the sword but of the arts of creation, ever pushing forward as I wield the power of software engineering*.
+
+📚 *Just as I train my blade, I sharpen my mind in the art of development, knowing that every battle in the realms of code brings me one step closer to my purpose*.
+
+🎮 *When the world of creation ceases to challenge me, I delve into other worlds—lost lands, where I seek to uncover the hidden secrets of games and their dark truths*.
+
+🎓 ***Aspiring Elden Lord, Software Engineering Student, Blade of the Sacred***
 
 ---
 
-### About Me
+### *My Skills, Like Runes, Are Many*
 
-- 🌱 I’m currently learning everything about software engineering and development.
-- 👨‍💻 I love working on web development, mobile apps, and machine learning projects.
-- 📚 I’m passionate about learning new technologies and improving my skills.
-- 🎮 In my free time, I enjoy gaming and exploring new game mechanics.
-
-### Skills
-
-#### Languages & Frameworks
+#### *Languages & Frameworks*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,7 +46,7 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=tkinter&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### Tools
+#### *Tools of the Trade*
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -54,12 +60,13 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
+---
 
-### Connect with Me
+### *Connect with Me, Tarnished*
 
-- 📧 Email: [businessyaz9011@outlook.com](businessyaz9011@outlook.com)
+- 📧 Email: [businessyaz9011@outlook.com](mailto:businessyaz9011@outlook.com)
+- ⚔️ Discord: @nodforkisses
 
+### "*Seek the Elden Ring, and in time, you shall rule all.*" 🌟
 
-
-
-
+</div>

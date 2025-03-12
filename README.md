@@ -49,8 +49,8 @@
 
 ### *Connect with Me, Tarnished* ⚔️
 
-- 📧 Email: [businessyaz9011@outlook.com](mailto:businessyaz9011@outlook.com)
-- ⚔️ Discord: @nodforkisses
+  📧 Email: [businessyaz9011@outlook.com](mailto:businessyaz9011@outlook.com)
+  ⚔️ Discord: @nodforkisses
 
 ### "*Seek the Elden Ring, and in time, you shall rule all.*" 🌟
 

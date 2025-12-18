@@ -6,13 +6,14 @@
 
 ### *I Am Malenia, Blade of Miquella*
 
-🌱 *As one bound to the Scarlet Rot, I seek not only mastery of the sword but of the arts of creation, ever pushing forward as I wield the power of software engineering*.
+🌱 *As one bound to the Scarlet Rot, I seek not only mastery of the sword but of the arts of creation.  
+My long trial is complete — I have **graduated** and now wield my craft as an **official Software Engineer, Full-Stack & AI**, ever pushing forward in the unforgiving realms of code.*
 
-📚 *Just as I train my blade, I sharpen my mind in the art of development, knowing that every battle in the realms of code brings me one step closer to my purpose*.
+📚 *Just as I trained my blade through countless battles, I have sharpened my mind through discipline and knowledge, knowing that every conflict in development tempers my resolve and perfects my craft.*
 
-🎮 *When the world of creation ceases to challenge me, I delve into other worlds—lost lands, where I seek to uncover the hidden secrets of games and their dark truths*.
+🎮 *When the world of creation ceases to challenge me, I wander other realms — lost lands and broken worlds — uncovering the hidden truths of games and the darkness they conceal.*
 
-🎓 ***Aspiring Elden Lord, Software Engineering Student, Blade of the Sacred***
+🎓 ***Graduated Software Engineer • Full-Stack & AI • Aspiring Elden Lord • Blade of the Sacred***
 
 ---
 
@@ -50,14 +51,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-
 ---
 
 ### *Connect with Me, Tarnished* ⚔️
 
-  📧 Email: [businessyaz9011@outlook.com](mailto:businessyaz9011@outlook.com)
-  ⚔️ Discord: @nodforkisses
+📧 **Email**: [businessyaz9011@outlook.com](mailto:businessyaz9011@outlook.com)  
+⚔️ **Discord**: @nodforkisses
 
-### "*Seek the Elden Ring, and in time, you shall rule all.*" 🌟
+### "*I have known defeat… but I have never known surrender.*" 🌟
 
 </div>
